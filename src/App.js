@@ -134,7 +134,7 @@ class App extends React.Component {
                             <Form.Control
                               type="text"
                               as="input"
-                              placeholder="Enter text"
+                              placeholder="d text"
                               value={example.input}
                               onChange={this.handleExampleChange(
                                 example.id,
